@@ -1,16 +1,36 @@
-## Hi there 👋
+# 👋 Hi, I'm Pranitha!
 
-<!--
-**pranithadhanapal07-commits/pranithadhanapal07-commits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year AI & Data Science Student  
+💻 Learning Python, Web Development, AI & Data Analytics  
+🚀 Hackathon Enthusiast  
+🌱 Building real-world projects and learning by doing
 
-Here are some ideas to get you started:
+## 🛠️ Currently Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Python
+- Git & GitHub
+- HTML & CSS
+- JavaScript
+- Data Analytics
+- Artificial Intelligence
+- Machine Learning
+- Web Development
+
+## 🚀 My Projects
+
+### 📚 Study Pilot
+AI-powered study assistant for analyzing study materials and helping students prepare smarter.
+
+### 🤖 More projects coming soon...
+
+## 🏆 Hackathons
+
+I participate in hackathons to build real-world solutions and improve my technical skills.
+
+## 🎯 My Goal
+
+To become a skilled AI & Data Science professional by building real-world projects.
+
+---
+
+⭐ Thanks for visiting my profile!
